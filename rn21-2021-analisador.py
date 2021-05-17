@@ -38,25 +38,20 @@ for art in range(1, 46+1):
     fim = fim_art[art]
     conteudo = '\n'.join(linhas[ini:fim])
     artigos[art] = conteudo
-    with open(f'art-{art}.md', mode='w', encoding='utf-8') as arq_art:
+    with open(f'docs/art-{art}.md', mode='w', encoding='utf-8') as arq_art:
         arq_art.write(f'''\
-(art-{art})=
-
 # Artigo {art}
 
 {conteudo}
 ''')
 
 for cap in range(1, 18+1):
-    with open(f'capitulo-{cap}.md', mode='w', encoding='utf-8') as arq_cap:
+    with open(f'docs/capitulo-{cap}.md', mode='w', encoding='utf-8') as arq_cap:
         arq_cap.write(f'''\
-(cap-{cap})=
+# Capítulo {cap} -- {linhas[ini_cap[cap]+1].lower().capitalize()}
 
-# Cap. {cap} -- {linhas[ini_cap[cap]+1].lower().capitalize()}
-
-```{{toctree}}
 ''')
         for art in arts_cap[cap]:
-            arq_cap.write(f'art-{art}.md\n')
+            arq_cap.write(f'- [Artigo {art}](art-{art}.md)\n')
         
-        arq_cap.write('```')
+

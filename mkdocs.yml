@@ -1,0 +1,77 @@
+site_name: Resolução 21/2021 - CONSUP/IFRN
+site_author: Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte
+
+theme:
+  name: material
+  language: pt
+
+nav:
+  - Início: index.md
+  - Capítulos:
+    - 1. Apresentação: capitulo-1.md
+    - 2. Do ensino remoto emergencial e a composição dos módulos de ensino: capitulo-2.md
+    - 3. Da capacitação: capitulo-3.md
+    - 4. Do planejamento pedagógico: capitulo-4.md
+    - 5. Da avaliação: capitulo-5.md
+    - 6. Da reprovação: capitulo-6.md
+    - 7. Da certificação de conhecimentos: capitulo-7.md
+    - 8. Do acompanhamento das turmas: capitulo-8.md
+    - 9. Do acompanhamento de frequência: capitulo-9.md
+    - 10. Do atendimento aos estudantes com necessidades educacionais específicas: capitulo-10.md
+    - 11. Dos conselhos de classe: capitulo-11.md
+    - 12. Das reuniões pedagógicas: capitulo-12.md
+    - 13. Das reuniões de pais: capitulo-13.md
+    - 14. Do trancamento voluntário: capitulo-14.md
+    - 15. Das atividades externas: capitulo-15.md
+    - 16. Da participação dos estudantes em eventos: capitulo-16.md
+    - 17. Do calendário acadêmico: capitulo-17.md
+    - 18. Das disposições gerais e finais: capitulo-18.md
+
+  - Artigos:
+    - 1: art-1.md
+    - 2: art-2.md
+    - 3: art-3.md
+    - 4: art-4.md
+    - 5: art-5.md
+    - 6: art-6.md
+    - 7: art-7.md
+    - 8: art-8.md
+    - 9: art-9.md
+    - 10: art-10.md
+    - 11: art-11.md
+    - 12: art-12.md
+    - 13: art-13.md
+    - 14: art-14.md
+    - 15: art-15.md
+    - 16: art-16.md
+    - 17: art-17.md
+    - 18: art-18.md
+    - 19: art-19.md
+    - 20: art-20.md
+    - 21: art-21.md
+    - 22: art-22.md
+    - 23: art-23.md
+    - 24: art-24.md
+    - 25: art-25.md
+    - 26: art-26.md
+    - 27: art-27.md
+    - 28: art-28.md
+    - 29: art-29.md
+    - 30: art-30.md
+    - 31: art-31.md
+    - 32: art-32.md
+    - 33: art-33.md
+    - 34: art-34.md
+    - 35: art-35.md
+    - 36: art-36.md
+    - 37: art-37.md
+    - 38: art-38.md
+    - 39: art-39.md
+    - 40: art-40.md
+    - 41: art-41.md
+    - 42: art-42.md
+    - 43: art-43.md
+    - 44: art-44.md
+    - 45: art-45.md
+    - 46: art-46.md
+

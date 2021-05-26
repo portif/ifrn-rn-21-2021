@@ -28,6 +28,7 @@ estudantes das turmas;
 VII. Cadastrar no Suap as aulas, com o registro das datas ou períodos, dos conteúdos programados, das atividades
 realizadas e da carga horária das atividades pedagógicas não presenciais, conforme planejamento aprovado para a
 disciplina no campus;
+
 VIII. Capacitar o corpo docente e discente dos campi, a fim de prepará-los para o uso tecnológico e pedagógico dos
 ambientes virtuais de aprendizagem adotados;
 

@@ -1,6 +1,6 @@
 site_name: Resolução 21/2021 - CONSUP/IFRN
 site_author: Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte
-site_dir: 
+site_dir: /var/www/html/consup/rn/21/
 
 theme:
   name: material

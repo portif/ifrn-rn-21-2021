@@ -1,8 +1,6 @@
 # Resolução 21/2021 -- CONSUP/IFRN
 
-Adaptação para web da [Resolução 21/2021 -- CONSUP/IFRN](https://portal.ifrn.edu.br/conselhos/consup/resolucoes/2021/resolucao-no-21-2021/view).
-
-
+Adaptação para web da [Resolução 21/2021 -- CONSUP/IFRN](https://portal.ifrn.edu.br/conselhos/consup/resolucoes/2021/resolucao-no-21-2021/view), que aprova a atualização das diretrizes pedagógicas para o ensino remoto emergencial, orienta o planejamento sobre a elaboração de diretrizes pedagógicas para a volta gradual ao ensino presencial, revoga a [Orientação Normativa nº 1/2021-PROEN](https://portal.ifrn.edu.br/covid-19/orientacao-normativa-1-2020-proen-ifrn/view) e dá outras providências.
 
 ```{toctree}
 :maxdepth: 1

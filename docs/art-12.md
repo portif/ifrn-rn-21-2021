@@ -4,6 +4,7 @@ Art. 12. No tocante ao cumprimento da carga horária docente, deve-se seguir o p
 CONSUP/IFRN, que apresenta, em seu Anexo I, os subgrupos que compõem as atividades de ensino, a saber:
 
 I. Aulas;
+
 II. Atividades de preparação, manutenção e apoio ao ensino;
 
 III. Programas ou projetos de ensino;

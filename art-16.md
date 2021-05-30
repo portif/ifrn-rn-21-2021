@@ -27,7 +27,8 @@ ensino remoto emergencial;
 
 VIII. Formação crítica sobre a oferta de ensino remoto emergencial no Brasil e temas correlatos;
 
-IX. Capacitação para uso adequado de ferramentas institucionais como o Fala-BR e o e-SIC e orientação de como
+IX. Capacitação para uso adequado de ferramentas institucionais como o [Fala-BR](https://falabr.cgu.gov.br/publico/Manifestacao/SelecionarTipoManifestacao.aspx) e o [e-SIC](https://esic.cgu.gov.br/falabr.html) e orientação de como
 proceder em casos de recebimento de tais solicitações;
+
 X. Capacitação sobre segurança sanitária.
 

@@ -34,6 +34,7 @@ escolhido.
 
 § 1º. As notas avaliativas deverão ser registradas pelo docente, no Suap, até duas semanas após o fim do respectivo
 módulo.
+
 §2º. No processo avaliativo não será permitida atribuição de nota a partir da ausência ou presença do estudante no
 momento síncrono.
 

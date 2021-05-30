@@ -14,16 +14,8 @@ II. Planejamento por disciplina (planos de ensino por disciplina), individual ou
 houver mais de um docente da mesma disciplina no campus, com foco nos objetivos de aprendizagem,
 considerando as atividades síncronas e assíncronas;
 
-III. Aprovação, por meio dos colegiados de cursos, das adequações curriculares, tendo em vista que a seleção e
-priorização dos conteúdos deverão focar nos objetivos de aprendizagem. A seleção de conteúdos necessária às
-adequações curriculares deverá considerar os documentos institucionais e os pareceres CNE nº 5 e nº 11/2020,
-quando apontam que tanto a seleção de conteúdo, quanto a de metodologias adotadas, deverão considerar a forma
-de oferta definida pela instituição para o desenvolvimento das atividades acadêmicas;
+III. Aprovação, por meio dos colegiados de cursos, das adequações curriculares, tendo em vista que a seleção e priorização dos conteúdos deverão focar nos objetivos de aprendizagem. A seleção de conteúdos necessária às adequações curriculares deverá considerar os documentos institucionais e os pareceres [CNE nº 5](http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=145011-pcp005-20&category_slug=marco-2020-pdf&Itemid=30192) e [nº 11/2020](http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=148391-pcp011-20&category_slug=julho-2020-pdf&Itemid=30192), quando apontam que tanto a seleção de conteúdo, quanto a de metodologias adotadas, deverão considerar a forma de oferta definida pela instituição para o desenvolvimento das atividades acadêmicas;
 
-IV. Aprovação, por meio dos colegiados de cursos de licenciaturas, das adequações curriculares e do estágio
-docente, conforme Parecer nº 5/2020–CNE, tendo em vista que a organização e a priorização dos conteúdos
-deverão focar nos objetivos de aprendizagem;
+IV. Aprovação, por meio dos colegiados de cursos de licenciaturas, das adequações curriculares e do estágio docente, conforme [Parecer nº 5/2020–CNE](http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=145011-pcp005-20&category_slug=marco-2020-pdf&Itemid=30192), tendo em vista que a organização e a priorização dos conteúdos deverão focar nos objetivos de aprendizagem;
 
-V. Consideração, no planejamento para estudantes com deficiência, das orientações do Plano Educacional
-Individualizado (PEI), a ser desenvolvido conjuntamente com os Núcleos de Apoio a Pessoas com Necessidades
-Educacionais Específicas (Napne) dos campi;
+V. Consideração, no planejamento para estudantes com deficiência, das orientações do [Plano Educacional Individualizado (PEI)](https://napne.par.ifrn.edu.br/pei/), a ser desenvolvido conjuntamente com os [Núcleos de Apoio a Pessoas com Necessidades Educacionais Específicas (Napne)](https://napne.par.ifrn.edu.br/) dos campi;

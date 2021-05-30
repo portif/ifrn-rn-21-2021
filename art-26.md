@@ -4,7 +4,7 @@
 
 Art. 26. Com a finalidade de garantir o melhor desempenho acadêmico dos estudantes e como alternativa para
 mitigar futuros índices de reprovação durante o período de ensino remoto emergencial, deve ser desenvolvida a
-recuperação paralela, em conformidade com o recomendado nos pareceres nº 5/2020 e nº 11/2020 – CNE/CP.
+recuperação paralela, em conformidade com o recomendado nos pareceres [nº 5/2020](http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=145011-pcp005-20&category_slug=marco-2020-pdf&Itemid=30192) e [nº 11/2020](http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=148391-pcp011-20&category_slug=julho-2020-pdf&Itemid=30192) – CNE/CP.
 Assim sendo, a recuperação paralela:
 
 I. É uma alternativa didático-pedagógica de acompanhamento das disciplinas que visa a superação das dificuldades

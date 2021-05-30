@@ -18,7 +18,7 @@ IV. Convocação dos representantes de pais/responsáveis via e-mail e/ou por te
 
 V. Convocação dos docentes e representantes de discentes via e-mail institucional.
 
-Parágrafo único. Respeitando-se outros formatos que vêm sendo desenvolvidos nos c a m p i para fins de
+Parágrafo único. Respeitando-se outros formatos que vêm sendo desenvolvidos nos campi para fins de
 funcionamento, sugere-se que os conselhos de classe sejam organizados com base nas seguintes etapas:
 
 - Primeira etapa: coleta de informações, por meio de formulário eletrônico;

@@ -3,7 +3,7 @@
 # Artigo 37
 
 Art. 37. O conselho de classe tem por finalidade colaborar para a melhoria do processo ensino e aprendizagem por
-intermédio do diagnóstico e da busca de alternativas, conforme proposta assumida no PPP institucional. Durante o
+intermédio do diagnóstico e da busca de alternativas, conforme proposta assumida no [PPP](https://portal.ifrn.edu.br/institucional/projeto-politico-pedagogico-1/lateral/menu-1) institucional. Durante o
 ensino remoto emergencial, os conselhos de classe devem atender às seguintes orientações:
 
 I. Realização dos encontros no formato virtual, com a utilização das plataformas digitais em uso;

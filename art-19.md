@@ -4,7 +4,7 @@
 
 Art. 19. No planejamento pedagógico, considerar-se-ão todas as possibilidades de adequações necessárias ao
 atendimento formativo de docentes e discentes para adaptação ao ensino remoto emergencial, considerando
-princípios e pressupostos da formação humana integral, previstos no Projeto Político Pedagógico (PPP) do IFRN.
+princípios e pressupostos da formação humana integral, previstos no [Projeto Político Pedagógico (PPP) do IFRN](https://portal.ifrn.edu.br/institucional/projeto-politico-pedagogico-1/lateral/menu-1).
 Para fins dos devidos direcionamentos, orienta-se:
 
 I. Realização de reuniões virtuais da Diretoria Pedagógica (Diped) com toda a Etep, em âmbito sistêmico; das

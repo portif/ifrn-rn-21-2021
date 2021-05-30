@@ -6,7 +6,7 @@ Art. 25. Na construção dos planos de ensino de cada disciplina e no desenvolvi
 assíncronas, a avaliação deve se pautar nas seguintes diretrizes:
 
 I. Realizar a avaliação da aprendizagem com base nas dimensões processual, contínua e somativa, ao longo de todo
-o processo de ensino e aprendizagem e em consonância com os princípios pautados no PPP/IFRN;
+o processo de ensino e aprendizagem e em consonância com os princípios pautados no [PPP/IFRN](https://portal.ifrn.edu.br/institucional/projeto-politico-pedagogico-1/lateral/menu-1);
 
 II. Planejamento conjunto de momentos avaliativos síncronos e assíncronos, definindo-se procedimentos, meios,
 instrumentos e estratégias/atividades de acompanhamento das aprendizagens (discentes) e de correção de rumos (na

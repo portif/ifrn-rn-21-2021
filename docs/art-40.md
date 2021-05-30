@@ -1,6 +1,6 @@
 # Artigo 40
 
-Art. 40. Em consonância com os Pareceres nº 5/2020 e nº 11/2020–CNE/CP, no que tange à busca de estratégias
+Art. 40. Em consonância com os Pareceres [nº 5/2020](http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=145011-pcp005-20&category_slug=marco-2020-pdf&Itemid=30192) e [nº 11/2020–CNE/CP](http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=148391-pcp011-20&category_slug=julho-2020-pdf&Itemid=30192), no que tange à busca de estratégias
 que evitem a reprovação e/ou minimização dos prejuízos causados ao estudante em virtude deste momento de
 pandemia, apresentam-se as seguintes orientações:
 

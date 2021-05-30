@@ -1,6 +1,6 @@
 # Artigo 31
 
-Art. 31. Seguindo recomendações dos pareceres nº 5/2020 e nº11/2020 – CNE/CP, o IFRN deverá considerar os
+Art. 31. Seguindo recomendações dos pareceres [nº 5/2020](http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=145011-pcp005-20&category_slug=marco-2020-pdf&Itemid=30192) e [nº11/2020](http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=148391-pcp011-20&category_slug=julho-2020-pdf&Itemid=30192) – CNE/CP, o IFRN deverá considerar os
 seguintes pontos em termos de mediação e construção de uma proposta de acompanhamento de turmas, englobando
 os três agentes centrais desse processo, quais sejam: pais/responsáveis pelos estudantes, os campi e os próprios
 estudantes. Nestes termos:
@@ -20,7 +20,7 @@ a) Estimular entre si uma postura de grupo e estabelecer canais claros e contín
 de colegas com dificuldades ou de questões particulares que demandem acompanhamento especializado por parte
 da psicologia escolar ou da assistência estudantil;
 
-b Estabelecer um canal claro de comunicação com docentes, diretoria acadêmica e equipe técnico- pedagógica
+b Estabelecer um canal claro de comunicação com docentes, diretoria acadêmica e equipe técnico-pedagógica
 sobre casos de ciberbullying e exposição indevida de terceiros em redes sociais e outros meios por parte dos pares.
 
 III. Campi deverão;
